@@ -30,6 +30,8 @@ character is destroyed after getting reduced to less than 0 health
 
 FEATURES TO IMPLEMENT
 
+scorekeeping (keep track of who is winning and execute the appropriate actions if such an event occurs
+
 Second player
 players as 2D sprites (+scripting to animate the sprites as they preform actions)
 
