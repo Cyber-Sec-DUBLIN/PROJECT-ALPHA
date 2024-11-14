@@ -5,21 +5,37 @@ you can either attack it until it dies or collide with it 4 times to die
 
 the background image comes from the game Guilty Gear XX by Arc System Works. Isn't mine and all rights to to their respective holders 
 
-FEATURES IMPLEMENTED SO FAR...
+FEATURES IMPLEMENTED SO FAR
+
+
 moving 
+
 jumping
+
 slowed movement while jumping
+
 two attacks (fireball and punch)
+
 player is prevented from moving when using an attack
+
 you cannot rapid fire attacks 
+
 attack objects are destroyed after a set duration
+
 health points
+
 character is destroyed after getting reduced to less than 0 health
+
 ==================================================================
-FEATURES TO IMPLEMENT...
+FEATURES TO IMPLEMENT
+
 Second player
 players as 2D sprites (+scripting to animate the sprites as they preform actions)
+
 main menu 
+
 music (composed, produced and arragned by Darragh)
+
 sound effects
+
 
