@@ -1,4 +1,4 @@
-this alpha build is not reflective of the atual gameplay and is here to demonstrates the mechanics. The final build will be local multiplayer. player 1 uses the left side of the keyboard while player 2 uses the right side. First to win two rounds wins
+this alpha build is not reflective of the actual gameplay and is here to demonstrates the mechanics. The final build will be local multiplayer. player 1 uses the left side of the keyboard while player 2 uses the right side. First to win two rounds wins
 
 the punching bag has 100 hit points. colliding with it deals 25 damage to the player
 you can either attack it until it dies or collide with it 4 times to die
