@@ -32,7 +32,7 @@ FEATURES TO IMPLEMENT
 
 scorekeeping (keep track of who is winning and execute the appropriate actions if such an event occurs
 
-Second player
+second player
 players as 2D sprites (+scripting to animate the sprites as they preform actions)
 
 main menu 
