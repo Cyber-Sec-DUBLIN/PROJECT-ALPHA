@@ -27,6 +27,7 @@ health points
 character is destroyed after getting reduced to less than 0 health
 
 ==================================================================
+
 FEATURES TO IMPLEMENT
 
 Second player
