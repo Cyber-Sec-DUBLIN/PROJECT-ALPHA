@@ -1,3 +1,5 @@
+https://play.unity.com/en/games/f4f807d1-59c4-48e6-9333-f021602ead90/projectalpha WEBGLBUILD
+
 this alpha build is not reflective of the actual gameplay and is here to demonstrates the mechanics. The final build will be local multiplayer. player 1 uses the left side of the keyboard while player 2 uses the right side. First to win two rounds wins
 
 the punching bag has 100 hit points. colliding with it deals 25 damage to the player
