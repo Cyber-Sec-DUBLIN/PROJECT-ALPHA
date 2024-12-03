@@ -6,6 +6,7 @@ the punching bag has 100 hit points. colliding with it deals 25 damage to the pl
 you can either attack it until it dies or collide with it 4 times to die
 
 the background image comes from the game Guilty Gear XX by Arc System Works. Isn't mine and all rights to to their respective holders 
+https://www.fightersgeneration.com/games/gg-xx-accent-plus-p4-3.html
 
 FEATURES IMPLEMENTED SO FAR
 
